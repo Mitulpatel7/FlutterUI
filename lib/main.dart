@@ -11,7 +11,7 @@ class Ecart extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Flutter Dev"),
+        title: Text("Android Developer"),
       ),
       body: Container(
         color: Colors.blue,
